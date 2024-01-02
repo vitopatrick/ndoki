@@ -41,7 +41,7 @@ const Services = () => {
       <section className="w-[90%] mx-auto p-4 font-min">
         {/* header */}
         <h4 className="text-blue-500 underline text-3xl">
-          VFB international Bank Services
+          Secure Trust Bank Services
         </h4>
         <p className="font-light text-white mt-[2rem]">
           Banking services created exclusively for you
@@ -67,7 +67,7 @@ const Services = () => {
         <div className="space-y-3 my-[2rem]">
           <p className="leading-loose font-light text-white">
             You and your family will also receive Worldwide Family Multi-Trip
-            Travel Insurance, provided by VFB Bank. This multi-trip travel
+            Travel Insurance, provided by ST Bank. This multi-trip travel
             insurance policy provides up to 31 days cover per trtip and there's
             no annual limit on the number of times you can travel. Your travel
             insurance includes up to 17 days winter sports, business and golf
