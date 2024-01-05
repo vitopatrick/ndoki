@@ -47,7 +47,7 @@ const ForgotPassword = (props: Props) => {
             </button>
             {/* sign up */}
             <div className="text-center font-min text-blue-50 font-light flex items-center justify-center gap-2">
-              <p>New To VFB Bank ?</p>{" "}
+              <p>New To Secure Trust Bank ?</p>{" "}
               <Link to="/register" className="underline text-yellow-300">
                 Sign Up
               </Link>

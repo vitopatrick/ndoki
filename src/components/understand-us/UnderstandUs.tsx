@@ -137,7 +137,7 @@ const ApplyForAnAccount = () => {
         Apply for an account in minutes
       </h3>
       <p className="text-center text-white font-min  font-light">
-        Get your VFB Bank account today!
+        Get your Secure Trust Bank account today!
       </p>
       <Link
         to="/register"
