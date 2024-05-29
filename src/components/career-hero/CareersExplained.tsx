@@ -11,7 +11,7 @@ const CareersExplained = () => {
       <div className="mx-auto w-[90%] p-4">
         {/* header */}
         <h4 className="text-blue-500 font-min text-3xl underline">
-          Saves Sphere Bank Careers
+          Save Sphere Bank Careers
         </h4>
         {/* body */}
         <p className="font-min text-blue-50 font-light my-[2rem] leading-loose">

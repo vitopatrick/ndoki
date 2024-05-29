@@ -41,7 +41,7 @@ const Services = () => {
       <section className="w-[90%] mx-auto p-4 font-min">
         {/* header */}
         <h4 className="text-blue-500 underline text-3xl">
-          Saves Sphere Bank Services
+          Save Sphere Bank Services
         </h4>
         <p className="font-light text-white mt-[2rem]">
           Banking services created exclusively for you
