@@ -142,7 +142,7 @@ const Register = (props: Props) => {
               </Link>
             </p>
             <p className="font-light text-yellow-200/50">
-              INB will not ask you for your online access and private
+              Save Sphere will not ask you for your online access and private
               information Don't let anyone know your security details
             </p>
           </div>
