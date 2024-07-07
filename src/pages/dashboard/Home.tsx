@@ -32,14 +32,6 @@ const Home = (props: Props) => {
               title="USD balance"
               amount={toDollar(user.accountBalance)}
             />
-            <BalanceCard
-              title="EUR balance"
-              amount={toEuro(user.accountBalance)}
-            />
-            <BalanceCard
-              title="INR balance"
-              amount={toRupees(user.accountBalance)}
-            />
           </div>
         )}
         <TransactionsList />
