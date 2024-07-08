@@ -29,7 +29,7 @@ const Home = (props: Props) => {
         {user && (
           <div className="grid grid-cols-1 md:grid-cols-3 my-[2rem] gap-4">
             <BalanceCard
-              title="USD balance"
+              title="balance"
               amount={toDollar(user.accountBalance)}
             />
           </div>
