@@ -1,4 +1,4 @@
-import { MapPinIcon, PhoneIcon, MailIcon } from "lucide-react";
+import { MapPinIcon, MailIcon } from "lucide-react";
 
 const ContactForm = () => {
   return (
@@ -31,14 +31,14 @@ const About = () => {
           <div className="bg-slate-600 p-4">
             <MapPinIcon color="#fff" />
           </div>
-          <p>3005 Cranberry Hwy Rt 6 28, Wareham MA 2538, USA..</p>
+          <p>3005 Cranberry Hwy Rt 6 28, Johannesburg MA 2538, South Africa</p>
         </div>
         {/* address */}
         <div className="flex gap-2 items-center  font-min font-light">
           <div className="bg-slate-600 p-4">
-            <PhoneIcon color="#fff" />
+            <MailIcon color="#fff" />
           </div>
-          <p>(630) 866-6418</p>
+          <p>info.savesphereonlinebanking@gmail.com</p>
         </div>
       </div>
     </div>
